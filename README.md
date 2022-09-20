@@ -21,6 +21,8 @@ or
 
 ### OR
 
-There is a very experimental .jar file
+There is a very experimental .jar file in the "jar" branch
+
+``git checkout jar``
 
 ``java -jar java -jar ./out/artifacts/rest_demo_jar/rest-demo.jar``
