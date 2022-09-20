@@ -19,3 +19,8 @@ or
 
 ``mvnw.cmd spring-boot:run``
 
+### OR
+
+There is a very experimental .jar file
+
+``java -jar java -jar ./out/artifacts/rest_demo_jar/rest-demo.jar``
